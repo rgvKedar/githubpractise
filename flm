@@ -1,4 +1,6 @@
-hello everyone
-welcome to github practise
-i am practising git and github
-adding new data after restoring the putty 
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+ 
